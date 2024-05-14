@@ -1,0 +1,1 @@
+# twrp_device_insignia_NS-P11A8100
